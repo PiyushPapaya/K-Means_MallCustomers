@@ -1,4 +1,4 @@
-# KMeans_MallCustomers
+# K-Means_MallCustomers
 
 A K-Means clustering model trained on the [Mall Customers dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers/versions/1) to segment individuals based on their age, annual income, and spending score.  
 The goal is to identify distinct groups of shoppers with similar demographic and spending characteristics.
