@@ -60,4 +60,4 @@ The notebook includes the following steps:
 - **Silhouette Score:** `0.4710`  
 - **Optimal Number of Clusters:** `4`  
 
-*(Insert visualization of the clusters here)*  
+![Cluster Visualization](cluster_plot.png)
